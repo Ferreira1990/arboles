@@ -1,0 +1,28 @@
+.Containercuidados{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.Cuidadostit{
+    display: flex;
+    justify-content: center;
+}
+
+.Cuidadostit h2{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+.descriptcuidados h4{
+    color: white;
+    font-style: italic;
+    text-align: center;
+    margin: 40px;
+    font-weight: 100;
+    font-size: 18px;
+    max-width: 800px;    
+}

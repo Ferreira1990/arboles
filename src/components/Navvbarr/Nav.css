@@ -1,0 +1,27 @@
+.Navcontainer{
+    height: 40px;
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: end;
+}
+
+.Letterfromnavbar{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Letterfromnavbar a{
+    color: white;
+    font-size: 15px;
+    margin: 0 10px;
+    letter-spacing: 1px;
+    font-weight: 100;
+    text-decoration: none; 
+
+  
+}
