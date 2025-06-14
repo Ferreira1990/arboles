@@ -16,6 +16,8 @@ import p13 from '../../assets/p13.jpg'
 import p14 from '../../assets/p14.jpg'
 import p15 from '../../assets/p15.jpg'
 import p16 from '../../assets/p16.jpg'
+import p17 from '../../assets/p17.jpg'
+import p18 from '../../assets/p18.jpg'
 
 const Plantas = () => {
   return (
@@ -29,7 +31,7 @@ const Plantas = () => {
       <h3 className="plant-name">Portulacaria 25cmx10cm 2años</h3>
          <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
-      <p className="plant-price">$20.000</p>
+      <p className="plant-price">$15.000</p>
     </div>
 
     <div className="plant-card">
@@ -37,7 +39,7 @@ const Plantas = () => {
       <h3 className="plant-name">Portulacaria 28cmx10cm 3años</h3>
          <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
-      <p className="plant-price">$22.000</p>
+      <p className="plant-price">$20.000</p>
     </div>
 
     <div className="plant-card">
@@ -45,7 +47,7 @@ const Plantas = () => {
      <h3 className="plant-name">Portulacaria 25cmx10cm 2años</h3>
          <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
-      <p className="plant-price">$20.000</p>
+      <p className="plant-price">$15.000</p>
     </div>
 
     <div className="plant-card">
@@ -53,7 +55,7 @@ const Plantas = () => {
      <h3 className="plant-name">Portulacaria 22cmx10cm 2años</h3>
          <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
-      <p className="plant-price">$18.000</p>
+      <p className="plant-price">$15.000</p>
     </div>
 
     <div className="plant-card">
@@ -61,7 +63,7 @@ const Plantas = () => {
     <h3 className="plant-name">Portulacaria 27cmx13cm 3años</h3>
          <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
-      <p className="plant-price">$20.000</p>
+      <p className="plant-price">$15.000</p>
     </div>
 
     <div className="plant-card">
@@ -69,7 +71,7 @@ const Plantas = () => {
      <h3 className="plant-name">Portulacaria 25cmx13cm 3años</h3>
          <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
-      <p className="plant-price">$20.000</p>
+      <p className="plant-price">$15.000</p>
     </div>
 
     <div className="plant-card">
@@ -77,7 +79,7 @@ const Plantas = () => {
       <h3 className="plant-name">Portulacaria 26cmx13cm 3años</h3>
          <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
-      <p className="plant-price">$20.000</p>
+      <p className="plant-price">$15.000</p>
     </div>
 
     <div className="plant-card">
@@ -85,7 +87,7 @@ const Plantas = () => {
    <h3 className="plant-name">Portulacaria 30cmx11cm 3años</h3>
          <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
-      <p className="plant-price">$25.000</p>
+      <p className="plant-price">$20.000</p>
     </div>
 
     <div className="plant-card">
@@ -101,7 +103,7 @@ const Plantas = () => {
             <h3 className="plant-name">Portulacaria inclinada 36cmx11cm 3años</h3>
       <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
-      <p className="plant-price">$25.000</p>
+      <p className="plant-price">$20.000</p>
     </div>
 
       <div className="plant-card">
@@ -109,7 +111,7 @@ const Plantas = () => {
             <h3 className="plant-name">Portulacaria inclinada 34cmx11cm 3años</h3>
       <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
-      <p className="plant-price">$25.000</p>
+      <p className="plant-price">$20.000</p>
     </div>
 
       <div className="plant-card">
@@ -122,7 +124,7 @@ const Plantas = () => {
 
       <div className="plant-card">
       <img src={p13} alt="Portulacaria Arbusto" className="plant-image" />
-            <h3 className="plant-name">Portulacaria 50cmx22cm 3años</h3>
+            <h3 className="plant-name">Estilo Bonsai 50cmx22cm 3años</h3>
       <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
       <p className="plant-price">$70.000</p>
@@ -130,7 +132,7 @@ const Plantas = () => {
 
       <div className="plant-card">
       <img src={p14} alt="Portulacaria Arbusto" className="plant-image" />
-            <h3 className="plant-name">Portulacaria 64cmx22cm 3años</h3>
+            <h3 className="plant-name">El gran árbol 64cmx22cm 3años</h3>
       <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
       <p className="plant-price">$60.000</p>
@@ -150,6 +152,22 @@ const Plantas = () => {
       <h3 className="plant-name">Ornamentación</h3>
         <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
       <p className="plant-price">$90.000</p>
+    </div>
+
+      <div className="plant-card">
+      <img src={p17} alt="Portulacaria Arbusto" className="plant-image" />
+            <h3 className="plant-name">Jardín rustico en greda 60cmx34cm 6años</h3>
+      <h3 className="plant-name">Ornamentación</h3>
+        <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
+      <p className="plant-price">$50.000</p>
+    </div>
+
+      <div className="plant-card">
+      <img src={p18} alt="Portulacaria Arbusto" className="plant-image" />
+            <h3 className="plant-name">Jardín rustico 60cmx34cm 6años</h3>
+      <h3 className="plant-name">Ornamentación</h3>
+        <p className="plant-price">Gravilla volcánica - Maceta ceramica</p>
+      <p className="plant-price">$50.000</p>
     </div>
 
 
